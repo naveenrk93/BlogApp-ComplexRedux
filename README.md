@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+# Complex React Blogging Application
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+### Introduction
+
+A Single page Application that handles basic CRUD operations for Blogs such as Posting a Blog, Reading a Blog, Viewing all the Blogs and Deleting a Blog.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone git@github.com:naveenrk93/BlogApp-ComplexRedux.git
+> cd BlogApp-ComplexRedux
 > npm install
 > npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
+> By Default is run on Port 8080
 ```
